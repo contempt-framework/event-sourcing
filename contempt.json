@@ -1,0 +1,9 @@
+{
+    "$schema": "https://contempt.lemric.com/schemas/package-1.0.json",
+    "schemaVersion": "1.0",
+    "extension": "Contempt\\EventSourcing\\EventSourcingExtension",
+    "frameworkApi": "^1.0",
+    "capabilities": [
+        "event-sourcing.store"
+    ]
+}
